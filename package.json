@@ -1,0 +1,16 @@
+{
+  "name": "scala.io_cfp_redirect",
+  "version": "1.0.0",
+  "description": "Redirect to papercall CFP",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "expressjs": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ScalaIO",
+  "license": "ISC"
+}
