@@ -10,6 +10,6 @@ function handleRedirect(req, res) {
 
 app.get('*', handleRedirect);
 
-const port = process.env.port || 3000;
+const port = process.env.PORT || 8080;
 
 app.listen(port);
